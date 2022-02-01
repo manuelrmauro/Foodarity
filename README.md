@@ -5,7 +5,7 @@ Link to app: https://foodarity.herokuapp.com/
 Link to video: https://vimeo.com/672513649
 
 <p align='center'>
-    <img src='/screenshot.jpg' </img>
+    <img src='/screentshot.jpg' </img>
 </p>
 
 ### Description
