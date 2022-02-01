@@ -7,9 +7,6 @@ Link to video: https://vimeo.com/672513649
 <p align='center'>
     <img src='/screenshot.jpg' </img>
 </p>
-<p align='center'>
-    <img src='/screenshot2.jpg' </img>
-</p>
 
 ### Description
 
