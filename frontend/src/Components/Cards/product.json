@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  },
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  },
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  },
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  },
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  },
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  },
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  },
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  },
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  },
+  {
+    "name": "Leches y quesos",
+    "description": "2 saches de leche, y 500g de queso cremoso",
+    "photo": "https://portalechero.com/wp-content/uploads/2021/02/lacteos-6-750x495.jpg",
+    "price": 100.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "02/02/2022",
+    "category": 1
+  },
+  {
+    "name": "Frutas varias",
+    "description": "1kg de manzanas, 2kg de naranjas, 1kg de banana, 2 ananas,2kg de duraznos",
+    "photo": "https://www.hola.com/imagenes/estar-bien/20180629125821/el-significado-de-los-colores-de-las-frutas-cs/0-577-509/frutascolores-t.jpg",
+    "price": 120.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "09/01/2022",
+    "category": 3
+  },
+  {
+    "name": "Pizza",
+    "description": "2 pizzas napolitanas, 1 1/2 pizza calabresa",
+    "photo": "https://emprendeconhuevos.com/wp-content/uploads/2020/07/87450465-pizza-1440.jpg",
+    "price": 250.0,
+    "publicationDate": "07/01/2022",
+    "expirationDate": "08/01/2022",
+    "category": 2
+  }
+]

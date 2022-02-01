@@ -1,0 +1,36 @@
+.img {
+  width: 100x;
+  height: 100px;
+  object-fit: cover;
+  box-shadow: 6px 7px 10px 0px rgba(0, 0, 0, 0.7);
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 2px;
+}
+.buttonImg {
+  border: none;
+  border-radius: 20px;
+  margin-top: 50px;
+}
+.buttonImg:hover {
+  transform: scale(1);
+  box-shadow: 5px 5px 20px rgba(106, 196, 248, 0.623);
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 576px) {
+  .img {
+    height: 70px;
+  }
+
+  .container h1 {
+    margin: 15px 0px;
+    font-size: large;
+  }
+}

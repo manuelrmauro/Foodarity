@@ -1,0 +1,21 @@
+.container {
+  background-color: white;
+}
+
+.nameONG {
+  color: rgb(4, 150, 16);
+  letter-spacing: 1.1px;
+  text-align: center;
+  width: 30px;
+  font-size: 12px;
+  font-family: fantasy;
+}
+
+.nameCommerce {
+  color: rgb(170, 11, 170);
+  letter-spacing: 1.1px;
+  text-align: center;
+  width: 30px;
+  font-size: 12px;
+  font-family: fantasy;
+}

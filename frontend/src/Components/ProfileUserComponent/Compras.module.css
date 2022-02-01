@@ -1,0 +1,18 @@
+@media screen and (max-width: 576px) {
+  .parent {
+    width: 50%;
+  }
+  .parent .titulo {
+    display: flex;
+    align-items: right center;
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .parent .titulo {
+    display: flex;
+    align-items: right center;
+    flex-direction: column;
+  }
+}

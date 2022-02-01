@@ -1,0 +1,159 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  min-height: 100vh;
+  z-index: 2;
+}
+
+.landing {
+  display: flex;
+  flex-direction: column;
+  background-image: url(../../assets/gif_landing.gif);
+  background-size: cover;
+  object-fit: cover;
+  height: 100vh;
+  position: relative;
+  max-height: 100vh;
+}
+
+.btncontent {
+  display: flex;
+  justify-content: space-around;
+}
+.btncont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  position: relative;
+  top: 5px;
+  display: flex;
+  flex-direction: center;
+}
+.logo1 {
+  position: relative;
+  /* top: 10vh; */
+  width: 30vw;
+}
+
+/* .divImgLanding {
+  width: 400px;
+  height: 400px;
+} */
+
+.imglogolanding {
+  width: 25vw;
+  height: 25vw;
+}
+
+.goDown {
+  color: white;
+  margin-top: 5vh;
+}
+
+.aboutCards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 50vh;
+  margin-top: 10vh;
+  margin-left: 10vw;
+}
+
+.containerAbouts {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+/* imagen de about */
+.imgAbout {
+  position: relative;
+  top: 200px;
+  margin-top: -80vh;
+  margin-left: 50vw;
+  width: 40vw;
+}
+
+@media screen and (max-width: 576px) {
+  .logo1 {
+    display: none;
+  }
+
+  .logo {
+    top: 10vh;
+    width: 70vw;
+  }
+
+  .imglogolanding {
+    width: 70vw;
+    height: 70vw;
+    margin-top: 10vh;
+  }
+
+  .btncont {
+    margin-top: 10vh;
+  }
+
+  .aboutCards {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+  }
+
+  .aboutCards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 800px;
+    width: 340px;
+    position: relative;
+    right: 20px;
+  }
+  
+  .imgAbout {
+    visibility: hidden;
+  }
+
+  .footer {
+    visibility: hidden;
+  }
+  .containerAbouts {
+    display: flex;
+    flex-direction: column;
+    margin-right: 120px;
+    height: 900px;
+    align-items: center;
+  }
+
+  .goDown {
+    visibility: hidden;
+  }
+}
+@media screen and (min-width: 576px) {
+  .logo {
+    visibility: hidden;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .imgAbout {
+    position: relative;
+    right: 25px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .imgAbout {position: relative;
+    right: 25px;
+    top: 45vh;
+  }
+
+}
+

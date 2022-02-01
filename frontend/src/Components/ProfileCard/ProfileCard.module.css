@@ -1,0 +1,46 @@
+.profilecard {
+  border: 1px solid black;
+  display: flex;
+  border-radius: 5px;
+  background-color: rgb(62, 36, 99);
+}
+
+.content {
+  margin-right: 45px;
+}
+
+.btn {
+  margin-bottom: 20px;
+  background-color: #d68584;
+  border: none;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.nombre {
+  text-align: center;
+  color: white;
+}
+.profileimg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 9999px;
+  background: white;
+  margin-left: 35px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+.imguser {
+  position: relative;
+  bottom: 2px;
+  width: 105px;
+  height: 105px;
+}

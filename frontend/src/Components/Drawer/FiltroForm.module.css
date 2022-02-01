@@ -1,0 +1,83 @@
+.divInputGeneral {
+  background-color: rgba(201, 236, 189, 0.541);
+  border: 2px solid rgb(86, 211, 97);
+  /* border-radius: 5px; */
+  padding: 1em;
+  width: 80%;
+  position: relative;
+  bottom: 15px;
+  /* flex-direction: column;
+  align-items: center;
+  display: flex; */
+}
+
+.divInputGeneral label {
+  /* margin-bottom: 0.5em; */
+  height: 2em;
+}
+.divInputGeneral input {
+  border-radius: 3px !important;
+  border: 2px solid rgb(121, 74, 233) !important;
+}
+
+.OrderBy,
+.filterByCategory,
+.minPrice,
+.maxPrice,
+.maxExp {
+  display: flex;
+  flex-direction: column;
+  color: rgb(74, 5, 163);
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.minPrice,
+.maxPrice {
+  width: 140px;
+}
+
+.OrderByInput,
+.filterByInput,
+.minPriceInput,
+.maxPriceInput,
+.maxExpInput {
+  position: relative;
+  border: 2px solid rgb(121, 74, 233);
+  height: 2em;
+  border-radius: 3px !important;
+}
+
+.maxExpInput {
+  width: 132px;
+  height: 2em;
+}
+
+.divButtons {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+.applyButton,
+.resetButton {
+  background-color: white;
+  border: 1px solid darkslateblue;
+  font-size: 14px;
+  padding: 5px;
+  font-weight: 700;
+  color: darkslateblue;
+  transition: 0.3s;
+}
+
+.applyButton:hover {
+  background-color: rgba(47, 255, 168, 0.404);
+}
+
+.resetButton:hover {
+  background-color: rgba(255, 47, 47, 0.404);
+}

@@ -1,0 +1,25 @@
+.parent {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 1em;
+  grid-row-gap: 0;
+}
+
+.bodyParent {
+  background-color: white !important;
+}
+
+.image {
+  height: 100%;
+}
+
+@media screen and (max-width: 576px) {
+  .imagen {
+    display: none;
+  }
+  .texto2 {
+    font-display: 100;
+  }
+}

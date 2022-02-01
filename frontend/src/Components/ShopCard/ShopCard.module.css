@@ -1,0 +1,59 @@
+.ShopCard {
+    background-color: rgb(130, 105, 170);
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.nameDiv {
+    width: 200px;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.name {
+    width: 200px;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 4px;
+    background-color: white;
+  }
+  .descriptionDiv {
+    height: 80px;
+    width: 200px;  
+  }
+
+.description {
+    background: white;
+    width: 200px;
+    border-radius: 4px;
+    height: 45px;
+  }
+
+  .profileimg {
+      position: relative;
+      top: 11px;
+      left: 5px;
+      border-radius: 4px;
+      background-color: white;
+      width: 70px;
+      height: 70px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .imguser {
+    width: 50px;
+    height: 50px;
+  }

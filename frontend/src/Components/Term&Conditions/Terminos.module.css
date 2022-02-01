@@ -1,0 +1,11 @@
+.terms {
+  background: none;
+  border: none;
+  font-size: 15.6px;
+  text-decoration: underline solid;
+  cursor: pointer;
+}
+
+.terms:hover {
+  color: rgb(88, 3, 109);
+}

@@ -1,0 +1,143 @@
+@media screen and (max-width: 576px) {
+  .patern .carrete {
+    display: none;
+  }
+}
+
+.patern {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: -1em;
+  grid-row-gap: 0;
+}
+
+.carrete {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* ----------ABAJO INICIA CSS DE FORMULARIO---------- */
+
+.formcont {
+  background-color: aliceblue;
+  height: 700px;
+  width: 550px;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 80px;
+  border-radius: 10px;
+}
+
+.cont {
+  display: flex;
+  justify-content: center;
+}
+
+.generalcont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.description {
+  width: 450px;
+}
+
+.btnready {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  font-weight: 600;
+  background-color: #d68584;
+  cursor: pointer;
+}
+
+.btnoff {
+  margin-top: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  font-weight: 600;
+  background-color: gray;
+  cursor: pointer;
+}
+
+.divupload {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 240px;
+  margin: auto;
+}
+
+.inputfoto {
+  width: 180px;
+  z-index: 1;
+  position: relative;
+  left: 70px;
+  opacity: 0;
+}
+
+.logo {
+  position: relative;
+  right: 100px;
+}
+
+.btninput {
+  width: 60px;
+  position: relative;
+  left: 10px;
+  height: 70px;
+  cursor: pointer;
+  margin: auto;
+}
+
+.imagecontent {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.label {
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.error {
+  text-align: center;
+  color: red;
+
+  margin: 0;
+  font-size: smaller;
+  height: 1px;
+}
+
+.divnuevolote {
+  margin-bottom: 19px;
+}
+
+.divcantidad {
+  margin-bottom: 19px;
+  margin-left: 15px;
+}
+
+.divprecio {
+  margin-bottom: 19px;
+}
+
+.quantityError {
+  height: 1px;
+}

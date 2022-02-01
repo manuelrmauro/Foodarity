@@ -1,0 +1,81 @@
+a {
+  text-decoration: none;
+}
+
+.header {
+  background-color: #533c74;
+  /* background-color: #51b148; */
+  display: flex;
+  height: 93px;
+  justify-content: center;
+  align-items: center;
+}
+
+.contLogo {
+  width: 100vw;
+  background: #533c74;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  margin: 10px;
+}
+
+.contener img {
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2.4em;
+}
+
+.contener {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  background-size: cover;
+  height: calc(100vh - 55px);
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 55px;
+}
+
+.contener h3 {
+  font-size: 1em;
+  color: #533c74;
+  font-style: bold;
+  margin-top: 1em !important;
+}
+
+.contener input {
+  margin-top: 0.4em;
+  box-shadow: 1px 1px 5px #a5a4a4;
+  border: none;
+  border-radius: 4.5px;
+  height: 2.2em;
+  width: 20em;
+}
+
+.errors {
+  color: rgba(255, 29, 29, 0.7);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.divErrorEmail {
+  width: 270px;
+  height: 25px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.divErrorContraseña {
+  width: 270px;
+  height: 25px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}

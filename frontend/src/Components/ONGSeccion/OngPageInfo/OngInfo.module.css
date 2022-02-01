@@ -1,0 +1,32 @@
+@media screen and (max-width: 576px) {
+  .patern .carrete {
+    display: none;
+  }
+  .patern .info {
+    margin-left: 2em;
+  }
+}
+
+.patern {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: -1em;
+  grid-row-gap: 0;
+}
+
+.carrete {
+  margin-top: 0.8em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.info {
+  margin-top: 1em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 90%;
+  margin-left: 1em;
+}

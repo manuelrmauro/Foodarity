@@ -1,0 +1,17 @@
+.header {
+  text-align: center;
+  background-color: #5b457a;
+  height: 95px;
+  width: 100%;
+  display: flex;
+}
+
+.header img {
+  top: 23px;
+}
+
+@media screen and (min-width: 576px) {
+  .header {
+    display: none;
+  }
+}

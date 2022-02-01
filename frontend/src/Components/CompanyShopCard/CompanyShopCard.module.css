@@ -1,0 +1,98 @@
+.generalDiv {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  border-top: 1px solid #c2aadd;
+  border-bottom: 1px solid #c2aadd;
+  width: 95%;
+  height: 95%;
+  left: 25px;
+  bottom: 20px;
+}
+
+.titleCompanyDiv {
+  height: 40px;
+  display: flex;
+  width: 250px;
+  align-items: center;
+  position: relative;
+  top: 10px;
+}
+
+.titleCompany {
+  color: black;
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+.titleCompany:hover {
+  color: rgb(111, 20, 172);
+  cursor: pointer;
+}
+
+.companyPhoto {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  bottom: 3px;
+}
+
+.buttonContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.buyButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background-color: rgb(71, 29, 105);
+  font-size: 16px;
+  padding: 6px;
+  color: white;
+  font-weight: 700;
+  border-radius: 2px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.39);
+  transition: 0.3s;
+}
+
+.buyButton:hover {
+  background-color: #4cc75e;
+  cursor: pointer;
+}
+
+.TotalDiv {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.total {
+  position: relative;
+  right: 0px;
+  font-weight: 700;
+}
+
+
+@media screen and (max-width: 576px)  {
+
+  .generalDiv{
+    width: 100%;
+    left: 0;
+  }
+
+  .total {
+    position: relative;
+    right: 10px;
+  }
+
+  .buttonContainer {
+    position: relative;
+    right: 14px;
+  }
+
+}

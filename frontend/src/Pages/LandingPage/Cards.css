@@ -1,0 +1,17 @@
+.about {
+  transform: scale(100%);
+  transition: 2s;
+}
+.about--zoom {
+  transform: scale(85%);
+  transition: 2s;
+}
+
+@media screen and (max-width: 576px) {
+  .about {
+    width: 100%;
+  }
+  .about--zoom {
+    width: 100%;
+  }
+}

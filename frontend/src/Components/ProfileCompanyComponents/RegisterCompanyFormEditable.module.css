@@ -1,0 +1,552 @@
+.RegisterFormCommerce {
+  height: 100vh;
+  background: #ececec;
+  margin-top: 60px;
+}
+
+.form {
+  background: #ececec;
+}
+
+.containerLogo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.commerceLogo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background: #d68584;
+  border-radius: 9999px;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-right: 0px;
+}
+
+.addNewPhoto {
+  position: relative;
+  color: black;
+  border-radius: 10px;
+  left: 100px;
+  background: #ffffff;
+  width: 250px;
+  height: 80px;
+  margin: 0px;
+}
+
+.placeholder {
+  position: relative;
+  width: 230px;
+  margin-top: 0px;
+  top: 30px;
+  left: 12px;
+}
+
+.divsInputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.labelNombre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic,
+    Arial, sans-serif;
+  position: relative;
+  right: 100px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.labelEmail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic,
+    Arial, sans-serif;
+  position: relative;
+  right: 100px;
+  margin-bottom: 5px;
+}
+.divInputEmail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.inputEmail {
+  width: 325px;
+  border-radius: 4px;
+  border-color: transparent;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.labelUrl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic,
+    Arial, sans-serif;
+  position: relative;
+  right: 118px;
+  margin-bottom: 5px;
+}
+
+.divInputNombre {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.labelDescripcion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic,
+    Arial, sans-serif;
+  position: relative;
+  right: 130px;
+  margin-bottom: 5px;
+}
+
+.divInputDescripcion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.inputNombre {
+  width: 325px;
+  border-radius: 4px;
+  border-color: transparent;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.inputDescripcion {
+  width: 325px;
+  height: 50px;
+  border-radius: 4px;
+  border-color: transparent;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  resize: none;
+}
+
+.divButton {
+  position: relative;
+  bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.button {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+  width: 330px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  background: #3e2463;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.phoneDivs {
+  position: relative;
+  right: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.areacod {
+  position: relative;
+  left: 15px;
+  width: 65px;
+  border-radius: 3px;
+  margin-right: 5px;
+  border: transparent;
+
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.phonenumber {
+  position: relative;
+  left: 15px;
+  width: 234px;
+  border-radius: 3px;
+  border: transparent;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+.divlabelPhone {
+  position: relative;
+  right: 60px;
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.labelPhone {
+  width: 210px;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic,
+    Arial, sans-serif;
+  position: relative;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.divlabelDir {
+  height: 25px;
+  position: relative;
+  right: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.labelDir {
+  width: 210px;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic,
+    Arial, sans-serif;
+  position: relative;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.divInputsCalleyNum {
+  position: relative;
+  right: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.calle {
+  position: relative;
+  left: 15px;
+  width: 210px;
+  border-radius: 3px;
+  border: transparent;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  margin-right: 5px;
+}
+
+.numCalle {
+  position: relative;
+  left: 15px;
+  width: 107px;
+  margin-right: 5px;
+  border: transparent;
+  border-radius: 3px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.divCodPostal {
+  position: relative;
+  right: 123px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.inputCodPostal {
+  position: relative;
+  left: 233px;
+  width: 107px;
+  margin-right: 5px;
+  border: transparent;
+  border-radius: 3px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.divCiudadyProv {
+  position: relative;
+  right: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputCiudad {
+  position: relative;
+  left: 15px;
+  width: 152px;
+  margin-right: 5px;
+  border: transparent;
+  border-radius: 3px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.inputProv {
+  position: relative;
+  left: 15px;
+  width: 165px;
+  border: transparent;
+  border-radius: 3px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  margin-right: 5px;
+}
+
+.divSelects {
+  display: flex;
+  margin-top: 10px;
+  width: 350px;
+}
+
+.selectCiudad {
+  position: relative;
+  left: 15px;
+  width: 160px;
+  margin-right: 5px;
+  border: transparent;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+}
+
+.selectProvincia {
+  position: relative;
+  left: 15px;
+  width: 168px;
+  border: transparent;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  height: 25px;
+}
+
+.containerResult {
+  display: flex;
+  flex-direction: column;
+  width: 155px;
+  background-color: white;
+  border: transparent;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+.containerElement {
+  padding-left: 5px;
+}
+
+.elements {
+  font-size: 0.8em;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 2px;
+  padding-top: 2px;
+}
+
+.elements:hover {
+  background-color: #3e2463;
+  color: white;
+  cursor: pointer;
+}
+
+.elements:last-child {
+  border-bottom: none;
+}
+
+.divErrorName {
+  width: 330px;
+  height: 25px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.divErrorEmail {
+  width: 330px;
+  height: 25px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.divErrorUrl {
+  width: 330px;
+  height: 25px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.divInputAndErrorAreaCod {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  width: 95px;
+}
+
+.divErrorAreaCod {
+  height: 25px;
+  width: 80px;
+  margin-left: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.divInputAndErrorTelefono {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.divErrorTelefono {
+  width: 80px;
+  margin-left: 15px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.divInputAndErrorNumCalle {
+  display: flex;
+  flex-direction: column;
+  width: 120px;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+
+.divInputAndErrorCalle {
+  display: flex;
+  flex-direction: column;
+  width: 220px;
+  justify-content: flex-start;
+  align-items: baseline;
+  margin-left: 5px;
+}
+
+.divErrorDireccion {
+  width: 60px;
+  margin-left: 15px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.divErrorCalle {
+  width: 80px;
+  margin-left: 15px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.divInputAndErrorCodPostal {
+  display: flex;
+  flex-direction: column;
+  width: 110px;
+  justify-content: flex-start;
+  align-items: flex-end;
+  margin-left: 5px;
+}
+.divErrorPostalCod {
+  position: relative;
+  left: 196px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.errors {
+  color: rgba(255, 29, 29, 0.7);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.btnactulizar {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  font-weight: 600;
+  background-color: #d68584;
+  cursor: pointer;
+}
+
+.inputcontenedor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 576px) {
+  .buttons {
+    margin-top: 0;
+    margin-bottom: 3px;
+  }
+
+  .avatar {
+    margin-top: 0px;
+  }
+
+  .divButton {
+    margin-top: 30px;
+  }
+}

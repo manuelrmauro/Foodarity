@@ -1,0 +1,81 @@
+.containerCardAbout {
+  width: 800px;
+  height: 650px;
+  margin-top: 50vh;
+}
+.containerCardValores {
+  width: 90%;
+  margin-top: 20vh;
+  margin-right: 5vw;
+}
+.mision,
+.vision {
+  margin-top: 60vh;
+  margin-bottom: 5%;
+  min-width: 275;
+}
+
+@media screen and (max-width: 576px) {
+  .containerCardAbout {
+    width: 100vw;
+    position: relative;
+    left: 0px;
+    height: 180vh;
+  }
+  .containerCardValores {
+    width: 100%;
+    position: relative;
+    right: 1vw;
+    top: 50vh;
+  }
+  .mision {
+    position: relative;
+    top: 225vh;
+    right: 10px;
+
+  }
+  .vision {
+    position: relative;
+    top: 50vh;
+    right: 10px;
+    
+  }
+}
+
+
+@media screen and (max-width: 1400px ) {
+  .containerCardAbout {
+    margin-top: 100vh;
+    position: relative;
+    top: 300px;
+    right: 100px;
+  }
+
+  .containerCardValores {
+    margin-top: 60vh;
+  }
+
+  .mision,
+.vision {
+  margin-top: 150vh;
+}
+}
+
+
+@media screen and (min-width: 1400px) {
+  .containerCardAbout {
+    margin-top: 90vh;
+    position: relative;
+    top: 300px;
+    right: 100px;
+  }
+
+  .containerCardValores {
+    margin-top: 60vh;
+  }
+
+  .mision,
+  .vision {
+    margin-top: 130vh;
+  }
+}

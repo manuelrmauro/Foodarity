@@ -1,0 +1,641 @@
+.productcard {
+  display: flex;
+  justify-content: center;
+  height: 180px;
+  width: 450px;
+  background-color: rgba(38, 5, 41, 0.527);
+  margin-bottom: 3vw;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.btncontent {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5px;
+}
+
+.content {
+  margin-right: 25px;
+}
+
+.nameDiv {
+  position: relative;
+  top: 5px;
+  width: 260px;
+  height: 20px;
+}
+.name {
+  width: 260px;
+  font-size: 14px;
+  margin-top: 5px;
+  text-align: center;
+  border-radius: 4px;
+  padding-right: 0;
+  color: white;
+  
+}
+
+.description {
+  width: 260px;
+  height: 45px;
+  font-size: 14px;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+}
+
+.divInc {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  bottom: 10px;
+}
+
+.nameInc {
+  color: rgb(157, 255, 201);
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+  position: relative;
+  right: 25px;
+}
+
+.precio {
+  color: rgb(157, 255, 201);
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+  position: relative;
+  right: 20px;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  bottom: 5px;
+}
+
+.btnresdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  position: relative;
+}
+
+.btnres {
+  background-color: transparent;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  cursor: pointer;
+  width: 120px;
+  height: 30px;
+  font-weight: 700;
+  font-size: 14px;
+  color: white;
+  border: 2px solid white;
+  transition: 0.3s;
+}
+
+.btnres:hover {
+  background-color: rgba(47, 255, 168, 0.404);
+}
+
+.btndetdiv {
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.btndet {
+  font-weight: 700;
+  font-size: 14px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  cursor: pointer;
+  color: white;
+  border: 2px solid white;
+  background-color: transparent;
+  width: 250px;
+  height: 30px;
+  transition: 0.3s;
+}
+
+.btndet:hover {
+  background-color: #6f2add6b;
+}
+
+.img {
+  position: relative;
+  left: 12px;
+  width: 160px;
+  height: 180px;
+  object-fit: cover;
+}
+
+.divImg {
+  width: 160px;
+  height: 180px;
+  display: flex;
+  position: relative;
+  margin-right: 30px;
+}
+
+.BoxGeneral {
+  color: white;
+  background-color: rgba(38, 5, 41, 0.932);
+  border-radius: 4px;
+  font-size: 14px;
+  display: flex;
+  flex-direction: row-reverse;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 550px;
+  height: 300px;
+  padding: 40px;
+}
+
+.boxCompanyInfo {
+  width: 200;
+  display: flex;
+  align-items: center;
+}
+
+.titleTypographyName {
+  display: flex;
+  position: relative;
+  bottom: 5px;
+  font-size: 24;
+  margin: 0;
+}
+
+.titleTypographyStreet {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  bottom: 20px;
+  right: 5px;
+  margin: 0;
+  position: relative;
+  right: 5;
+  bottom: 40;
+  font-size: 10;
+  user-select: none;
+}
+
+.heart {
+  color: white;
+}
+
+.cartOptionsCont {
+  position: relative;
+  right: 15px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+  align-items: center;
+  font-weight: bold;
+  font-size: 18px;
+  font-variant-caps: all-petite-caps;
+}
+
+.cartOptions {
+  height: 20px;
+  background-color: rgba(49, 5, 66, 0.63);
+  border: 1px solid white;
+  color: rgb(255, 255, 255);
+  border-radius: 2px;
+  position: relative;
+  right: 10px;
+  top: 2px;
+}
+
+.divFavButton {
+  position: relative;
+  top: 15px;
+  display: flex;
+  justify-content: flex-end;
+  height: 31px;
+  position: relative;
+  right: 10px;
+}
+
+.priceCont {
+  position: relative;
+  top: 50px;
+}
+
+.price {
+  margin: 0;
+  user-select: none;
+}
+
+.titleTypographyDesc {
+  position: relative;
+  width: 180px;
+  height: 140px;
+  left: 10px;
+  margin: 0;
+  bottom: 20px;
+  user-select: none;
+}
+
+.DivPostData {
+  display: flex;
+  flex-direction: row;
+  width: 550px;
+  height: 150px;
+}
+
+.PostImgDiv {
+  width: 140px;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.PostImg {
+  width: 140px;
+  height: 140px;
+  border: 2px solid white;
+}
+
+.CompanyNameDiv {
+  position: relative;
+  bottom: 5px;
+  left: 20px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.expDate {
+  height: 16px;
+  position: relative;
+  top:25px;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 16px;
+  user-select: none;
+}
+
+.date {
+  position: relative;
+  bottom: 30px;
+  font-weight: 400;
+ 
+}
+
+.category {
+  height: 35px;
+  position: relative;
+  top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 16px;
+  user-select: none;
+}
+
+.categoryName {
+  position: relative;
+  bottom: 30px;
+  font-weight: 400;
+}
+
+
+.divBtnReservar {
+  width: 100px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  left: 22px;
+  top: 32px;
+}
+
+.btnReservar {
+  width: 100px;
+  height: 30px;
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 2px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.btnReservar:hover {
+  background-color: rgba(47, 255, 168, 0.404);
+}
+
+.favButton {
+  width: 160px;
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  font-weight: 700;
+  transition: 0.3s;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.favButton:hover {
+  background-color: #4cc75e;
+}
+
+.favButton:focus-within {
+  background-color: #4cc75e;
+}
+.googleMap {
+  height: 150px;
+  width: 200px;
+  position: relative;
+  bottom: 15px;
+  left: 25px;
+}
+
+@media screen and (max-width: 576px) {
+
+  .googleMap {
+   display: none;
+  }
+
+
+
+  .expDate {
+    height: 20px;
+    position: relative;
+    top: -50px;
+ 
+  }
+
+  .category{
+    height: 35px;
+    position: relative;
+    top: -45px;
+  }
+
+  .categoryName, .date {
+    position: relative;
+    bottom: 18px;
+  }
+
+  .priceCont {
+    position: relative;
+    top: -50px;
+    font-size: 10px;
+  }
+  
+  .price {
+    font-size:8px;
+  }
+
+  .cartOptionsCont {
+    position: relative;
+    right: 3px;
+    font-size: 12px;
+    top: 60px;
+  }
+  
+  .cartOptions {
+    height: 15px;
+    width: 30px;
+    position: relative;
+    right: 10px;
+    top: 2px;
+    font-size: 10px;
+  }
+
+  .productcard {
+    width: 340px;
+    height: 140px;
+    position: relative;
+    left: 10px;
+  }
+  .content {
+    margin-right: 50px;
+    width: 220px;
+    position: relative;
+    left: 10px;
+  }
+
+  .nameDiv {
+    width: 200px;
+    position: relative;
+    left: 10px;
+    bottom: 5px;
+  }
+
+  .name {
+    width: 200px;
+    position: relative;
+    bottom: 5px;
+    right: 5px;
+  }
+
+  .img {
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+    left: 40px;
+    width: 120px;
+    height: 140px;
+  }
+  .divImg {
+    width: 120px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-right: 30px;
+    /* bottom: 10px; */
+  }
+  .divInc {
+    width: 200px;
+    position: relative;
+    left: 18px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+  }
+
+  .nameInc {
+    font-size: 12px;
+  }
+
+  .precio {
+    position: relative;
+    right: 20px;
+    font-size: 12px;
+  }
+
+  .description {
+    width: 210px;
+    position: relative;
+    left: 10px;
+    bottom: 5px;
+    font-size: 13px;
+  }
+
+  .btnContainer {
+    width: 220px;
+    position: relative;
+    bottom: 5px;
+  }
+
+  .btnres {
+    width: 0px;
+    height: 0px;
+    font-size: 12px;
+  }
+
+  .btnresdiv {
+    width: 0px;
+    left: 5px;
+  }
+  .btndet {
+    position: relative;
+    left: 10px;
+    bottom: 4px;
+    width: 200px;
+    height: 25px;
+    font-size: 12px;
+  }
+
+  .btndetdiv {
+    width: 200px;
+  }
+
+  .BoxGeneral {
+    width: 340px;
+    height: 160px;
+    padding: 5px;
+  }
+
+  .boxCompanyInfo {
+    width: 140px;
+    position: relative;
+  }
+  .CompanyNameDiv {
+    width: 130px;
+  }
+
+  .star {
+    font-size: 12px;
+    position: relative;
+    left: 5px;
+  }
+
+  .Rating {
+    font-size: 18px;
+    position: relative;
+    left: 5px;
+  }
+  .labelRating {
+    font-size: 10px;
+    position: relative;
+    right: 5px;
+  }
+
+  .titleTypographyName {
+    font-size: 14px;
+    position: relative;
+    right: 20px;
+    top: 2px;
+  }
+  .divStreet {
+    position: relative;
+    bottom: 10px;
+  }
+  .titleTypographyStreet {
+    font-size: 8px;
+    width: 130px;
+    position: relative;
+    left: 2px;
+    bottom: 5px;
+  }
+
+  .titleTypographyDesc {
+    font-size: 8px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 16px;
+  }
+
+  .DivPostData {
+    width: 200px;
+  }
+
+  .PostImgDiv {
+    width: 80px;
+    height: 80px;
+  }
+
+  .PostImg {
+    width: 80px;
+    height: 80px;
+  }
+  .expDate {
+    font-size: 8px;
+    height: 16px;
+    position: relative;
+    bottom: 60px;
+  }
+
+  .category {
+    height: 16px;
+    font-size: 8px;
+    position: relative;
+    bottom: 65px;
+  }
+  .divBtnReservar {
+    width: 60px;
+    height: 16px;
+    position: relative;
+    bottom: 90px;
+  }
+
+  .btnReservar {
+    width: 60px;
+    height: 16px;
+    font-size: 9px;
+    font-weight: 700;
+    position: relative;
+    bottom: 91px;
+  }
+
+  .divFavButton {
+    position: relative;
+    top: 70px;
+    left: 30px;
+    width: 100px;
+  }
+
+  .favButton {
+    width: 100px;
+    height: 16px;
+    font-size: 8px;
+    font-weight: 700;
+    position: relative;
+  }
+  .heart {
+    font-size: 12px;
+  }
+}

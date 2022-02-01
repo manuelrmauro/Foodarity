@@ -1,0 +1,364 @@
+[
+  {
+    "lote":"Panificados Mix",
+    "description":"En este paquete podrás encontrar deliciosos tipos de panificados preparados en el día: 1kg pan salvado , 500gr cremona , 2kg pan pebete , 700gr pan de campo ",
+    "photo":{"url":
+    "https://st2.depositphotos.com/1027198/8127/i/600/depositphotos_81270964-stock-photo-croissant-and-various-bread.jpg"}
+    ,
+    "price":700.00,
+    "publicationDate": "01/07/2022",
+    "expirationDate":"01/08/2022",
+    "quantity":5,
+    "category":4,
+    "publisher":2,
+    "company":"cafe"
+
+  },
+  {
+    "lote":"Tortas Mix",
+    "description":"En este paquete podrás encontrar deliciosos tipos de tortas preparadas en el día: 1kg Selva Negra , 1kg Marquise , 1kg Rogel , 500gr Chocotorta ",
+    "photo":{"url":
+    "https://st.depositphotos.com/2038145/1967/i/950/depositphotos_19678993-stock-photo-cakes-on-display-in-an.jpg"}
+    ,
+    "price":1500.00,
+    "publicationDate": "01/10/2022",
+    "expirationDate":"01/11/2022",
+    "quantity":3,
+    "category":4,
+    "publisher":2,
+    "company":"cafe"
+
+    
+  },
+  {
+    "lote":"Masas dulces Mix",
+    "description":"En este paquete podrás encontrar deliciosos tipos de masas preparadas en el día: 1kg pan de queso , 1kg alfajores , 1kg brownies , 500gr pepas de chocolate, 500gr conitos ",
+    "photo":{"url":"https://www.nuria.com.ar/wp-content/uploads/2018/12/Confiteria-Nuria-2018-263.jpg"},
+    "price":800.00,
+    "publicationDate": "01/25/2022",
+    "expirationDate":"01/25/2022",
+    "quantity":5,
+    "category":4,
+    "publisher":2,
+    "company":"cafe"
+    
+  },
+  {
+    "lote":"Facturas Mix",
+    "description":"En este paquete podrás encontrar deliciosos tipos de facturas preparadas en el día: 300gr medialunas , 300gr facturas con dulce de leche , 300gr facturas con membrillo , 300gr facturas con crema pastelera, 500gr hojaldradas ",
+    "photo":{"url":"https://www.nanette.com.ar/wp-content/uploads/2020/06/facturas-ok.png"},
+    "price":1000.00,
+    "publicationDate": "01/25/2022",
+    "expirationDate":"01/25/2022",
+    "quantity":6,
+    "category":4,
+    "publisher":2,
+    "company":"cafe"
+    
+  },
+  {
+    "lote":"Postres en Vaso Mix",
+    "description":"En este paquete podrás encontrar deliciosos tipos de postres en vaso preparadas en el día: 1 porcion chocotorta , 1 porcion tiramisu , 1 porcion lemon pie",
+    "photo":{"url":"https://www.cuerpomente.com/medio/2020/01/23/vasito-panacotta-coco_cbdbc88a_1390x2000.jpg"},
+    "price":800.00,
+    "publicationDate": "01/27/2022",
+    "expirationDate":"01/28/2022",
+    "quantity":10,
+    "category":5,
+    "publisher":4,
+    "company":"gusto"
+    
+  },
+  {
+    "lote":"Porciones Mix",
+    "description":"En este paquete podrás encontrar deliciosos tipos de porciones de postres preparados en el día: 6 unidades bombones de frutilla , 1 porcion chocoreo, 4 unidades alfajor helado, 3 unidades anana rellena",
+    "photo":{"url":"https://i.ytimg.com/vi/_1M40VlRmUk/maxresdefault.jpg"},
+    "price":1500.00,
+    "publicationDate": "01/03/2022",
+    "expirationDate":"01/05/2022",
+    "quantity":6,
+    "category":5,
+    "publisher":4,
+    "company":"gusto"
+    
+  },
+  {
+    "lote":" Combos Hamburguesas Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de combos preparados en el día: 6 unidades hamburguesa doble , 1 unidad hamburguesa triple cheddar, 4 unidades papas fritas, 3 vasos Coca-Cola",
+    "photo":{"url":"https://vivo247.com/wp-content/uploads/2020/03/mostaza.jpg"},
+    "price":2000.00,
+    "publicationDate": "01/03/2022",
+    "expirationDate":"01/05/2022",
+    "quantity":6,
+    "category":6,
+    "publisher":4,
+    "company":"gusto"
+
+  },
+  {
+    "lote":" McCombos Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de combos preparados en el día: 3 unidades hamburguesa doble , 1 unidad hamburguesa pollo, 4 unidades papas fritas, 4 vasos Coca-Cola, 1 porcion nugets pollo",
+    "photo":{"url":"https://www.elliberal.com.ar/fotos/notas/2018/11/02/454054_20181102135511.jpg"},
+    "price":1500.00,
+    "publicationDate": "01/13/2022",
+    "expirationDate":"01/13/2022",
+    "quantity":15,
+    "category":6,
+    "publisher":4,
+    "company":"gusto"
+    
+  },
+  {
+    "lote":" Snacks cerveceros Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de snaks preparados en el día: 2 unidades palitos 'POP' , 1 unidad Mani, 4 unidades papas fritas 'Pringles', 2 unidades Twistos, 1 unidad 3-D, 1 unidad cerveza 'Heineken'",
+    "photo":{"url":"https://http2.mlstatic.com/D_NQ_NP_878302-MLA44882753397_022021-O.jpg"},
+    "price":1000.00,
+    "publicationDate": "01/19/2022",
+    "expirationDate":"01/21/2022",
+    "quantity":15,
+    "category":1,
+    "publisher":1,
+    "company":"mackro"
+    
+  },
+  {
+    "lote":"Lacteos Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de lacteos : 2 pack leche entera , 1 doc huevos, 4 pack yogurt descremado, 2kg queso sardo, 1kg queso mar del plata",
+    "photo":{"url":"https://clubdelicatessen.com/wp-content/uploads/2021/05/productos-lacteos.jpg"},
+    "price":1700.00,
+    "publicationDate": "01/03/2022",
+    "expirationDate":"01/06/2022",
+    "quantity":10,
+    "category":1,
+    "publisher":1,
+    "company":"mackro"
+    
+  },
+  {
+    "lote":"Untables Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de untables para el desayuno : 1 unidad dulce de leche clasico , 1 unidad dulce de leche repostero, 1 unidad dulce de leche con chocolate, 1 unidad mermelada damasco, 1 unidad mermelada narnaja",
+    "photo":{"url":"https://2.bp.blogspot.com/-_Qv00SSEx3E/WvJBabxp8VI/AAAAAAAAC6U/fJU8qtsEn40DCkd7WpRDYIJukAUwfcCwACLcBGAs/s1600/dulce-de-leche.jpg"},
+    "price":590.00,
+    "publicationDate": "01/03/2022",
+    "expirationDate":"01/16/2022",
+    "quantity":10,
+    "category":1,
+    "publisher":1,
+    "company":"mackro"
+    
+  },
+  {
+    "lote":"Viandas Almuerzo Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de viandas para el almuerzo : 2 unidades Pescado con pure de papas , 2 unidades Pastel de papa, 2 unidades pollo con arroz",
+    "photo":{"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBT-6DBXC1pPxuuKjjEqqd7Km-0ln8gMsJ4_0jCJkFPL_QVzvC7zSO3YkIQl_PVOSX5rk&usqp=CAU"},
+    "price":1500.00,
+    "publicationDate": "01/26/2022",
+    "expirationDate":"01/26/2022",
+    "quantity":10,
+    "category":2,
+    "publisher":1,
+    "company":"mackro"
+    
+  },
+  {
+    "lote":"Pastas Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de pastas frescas : 1kg spaguetti , 200gr ravioles verdura, 200gr ravioles ricota, 500gr fideo moñito",
+    "photo":{"url":"https://blog.flota.es/wp-content/uploads/2017/09/diez-tipos-de-pasta-que-deberias-conocer.jpg"},
+    "price":900.00,
+    "publicationDate": "01/18/2022",
+    "expirationDate":"01/30/2022",
+    "quantity":30,
+    "category":2,
+    "publisher":1,
+    "company":"mackro"
+    
+  },
+  {
+    "lote":"Verduras frescas Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de verduras frescas : 1 atado albhaca , 1 atado espinaca, 1 atado lechuga, 500gr zuchinni, 500gr zapallo , 500gr ajo y cebolla",
+    "photo":{"url":"https://laferiadelivery.cl/web/wp-content/uploads/2020/06/CANASTA.jpg"},
+    "price":900.00,
+    "publicationDate": "01/18/2022",
+    "expirationDate":"01/30/2022",
+    "quantity":50,
+    "category":3,
+    "publisher":3,
+    "company":"natural"
+
+    
+  },
+  {
+    "lote":"Frutas de estacion Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de frutas frescas: 400gr manzanas verdes, 400gr manzanas rojas, 200gr naranjas, 200gr kiwis, 200gr frutillas",
+    "photo":{"url":"https://s1.best-wallpaper.net/wallpaper/m/1805/Many-fruit-berries-plum-peach-cherry-lemon_m.jpg"},
+    "price":1500.00,
+    "publicationDate": "01/18/2022",
+    "expirationDate":"01/19/2022",
+    "quantity":30,
+    "category":3,
+    "publisher":3,
+    "company":"natural"
+    
+  },
+  {
+    "lote":"Combos saludable",
+    "description":"En este paquete podrás encontrar diferentes tipos de frutas y verduras frescas: 500gr manzanas, 400gr bananas, 1kg ananá, 200gr lechuga, 200gr zanahoria, 200gr papa, 200gr tomates, 200gr cebolla, 200gr morron",
+    "photo":{"url":"https://img.vixdata.io/pd/jpg-large/es/sites/default/files/f/frutas_y_verduras_para_una_buena_salud_mental.jpg"},
+    "price":1000.00,
+    "publicationDate": "01/15/2022",
+    "expirationDate":"01/15/2022",
+    "quantity":20,
+    "category":3,
+    "publisher":3,
+    "company":"natural"
+    
+  },
+  {
+    "lote":"Combo verde almuerzo/cena",
+    "description":"En este paquete podrás encontrar diferentes tipos de alimentos 100% vegetariano: 1 vianda haburguesa de soja, 1 vianda ensalada fresca, 1 vianda pastas salteadas",
+    "photo":{"url":"https://media-cdn.tripadvisor.com/media/photo-s/1d/52/f4/da/combo-executivo.jpg"},
+    "price":1200.00,
+    "publicationDate": "01/03/2022",
+    "expirationDate":"01/04/2022",
+    "quantity":5,
+    "category":7,
+    "publisher":3,
+    "company":"natural"
+    
+  },
+  {
+    "lote":"Combo vegetariano",
+    "description":"En este paquete podrás encontrar diferentes tipos de hamburguesas 100% vegetariana: 1 unidad hamburguesa de soja, 1 unidad hamburguesa de zapallo , 1 unidad hamburguesa de garbanzos",
+    "photo":{"url":"https://estaticos.miarevista.es/uploads/images/article/58ff34255bafe8f7c63c9869/vegana_0.jpg"},
+    "price":700.00,
+    "publicationDate": "01/20/2022",
+    "expirationDate":"01/24/2022",
+    "quantity":8,
+    "category":7,
+    "publisher":4,
+    "company":"gusto"
+
+    
+  },
+  {
+    "lote":"Combo vegano",
+    "description":"En este paquete podrás encontrar diferentes tipos de alimentos 100% veganos: 2 tapas zanahora y palta, 2 unidades ensalada fresca, 2 unidades pasta de espinaca",
+    "photo":{"url":"https://i.ytimg.com/vi/1w6NooZQlS4/maxresdefault.jpg"},
+    "price":850.00,
+    "publicationDate": "01/11/2022",
+    "expirationDate":"01/11/2022",
+    "quantity":20,
+    "category":8,
+    "publisher":4,
+    "company":"gusto"
+
+    
+  },
+  {
+    "lote":"Vegano Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de alimentos 100% veganos: 4 unidades sopa calabaza, 1 unidad vegetales grillados , 2 unidades sopa verde",
+    "photo":{"url":"https://cdn.shopify.com/s/files/1/0073/1643/9109/articles/5_cenas_veganas_faciles_y_rapidas_300x300.png?v=1551478522"},
+    "price":950.00,
+    "publicationDate": "01/13/2022",
+    "expirationDate":"01/13/2022",
+    "quantity":20,
+    "category":8,
+    "publisher":3,
+    "company":"natural"
+    
+  },
+  {
+    "lote":"Sushi Mix",
+    "description":"En este paquete podrás encontrar variedad en piezas de sushi: 10 unidades hot roll, 10 unidades california , 10 unidades filadelfia",
+    "photo":{"url":"https://mahatmarice.com/wp-content/uploads/2019/05/Vegetarian-Sushi-Rolls.jpg"},
+    "price":1000.00,
+    "publicationDate": "01/28/2022",
+    "expirationDate":"01/28/2022",
+    "quantity":20,
+    "category":9,
+    "publisher":1,
+    "company":"mackro"
+    
+  },
+  {
+    "lote":"Combos Pizza",
+    "description":"En este paquete podrás encontrar variedad en pizza: 8 porciones muzzarella, 8 porciones fugaceta , 8 porciones rucula, 8 porciones margarita",
+    "photo":{"url":"https://i.blogs.es/fff4ca/pizzas/1366_2000.jpg"},
+    "price":750.00,
+    "publicationDate": "01/13/2022",
+    "expirationDate":"01/13/2022",
+    "quantity":25,
+    "category":2,
+    "publisher":4,
+    "company":"gusto"
+    
+  },
+  {
+    "lote":"Combos desayunador",
+    "description":"En este paquete podrás encontrar box de desayuno: 1 unidad cereales, 1 unidad crema de mani, 1 unidad azucar integral, 1 unidad frutos secos , 4 unidades mermeladas varias  ",
+    "photo":{"url":"https://d2r9epyceweg5n.cloudfront.net/stores/001/323/806/products/11-92f61b83dd5ec5d9b116032196577753-480-0.png"},
+    "price":500.00,
+    "publicationDate": "01/12/2022",
+    "expirationDate":"01/12/2022",
+    "quantity":25,
+    "category":9,
+    "publisher":2,
+    "company":"cafe"
+
+    
+  },
+  {
+    "lote":"Combos Pizza 2",
+    "description":"En este paquete podrás encontrar variedad en pizza: 4 porciones muzzarella, 4 porciones peperoni , 4 porciones rucula, 4 porciones jamon y huevo",
+    "photo":{"url":"https://sonaesierracms-v2.cdnpservers.net/wp-content/uploads/sites/35/2019/03/pizza-casera-saludable.jpg"},
+    "price":560.00,
+    "publicationDate": "01/13/2022",
+    "expirationDate":"01/13/2022",
+    "quantity":25,
+    "category":2,
+    "publisher":1,
+    "company":"mackro"
+    
+  },
+  {
+    "lote":"Frutas Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de frutas frescas: 400gr manzanas verdes, 400gr manzanas rojas, 200gr bananas, 200gr naranjas, 200gr kiwis, 200gr frutillas",
+    "photo":{"url":"https://noticias.iruya.com/newnex/images/stories/bises/sociedad/salud/frutas_varias.jpg"},
+    "price":1000.00,
+    "publicationDate": "01/22/2022",
+    "expirationDate":"01/23/2022",
+    "quantity":30,
+    "category":3,
+    "publisher":4,
+    "company":"gusto"
+    
+  },
+  {
+    "lote":"Pastas Caseras",
+    "description":"En este paquete podrás encontrar diferentes tipos de pastas frescas : 1kg spaguetti espinaca , 200gr ravioles verdura, 200gr ñoquis, 500gr fideo tirabuzon",
+    "photo":{"url":"https://www.clarin.com/img/2020/05/23/pastas-artesanales-para-celebrar-el___jr0agQpFA_340x340__1.jpg"},
+    "price":960.00,
+    "publicationDate": "01/18/2022",
+    "expirationDate":"01/30/2022",
+    "quantity":29,
+    "category":2,
+    "publisher":4,
+    "company":"gusto"
+    
+  },
+  {
+    "lote":"Quesos Mix",
+    "description":"En este paquete podrás encontrar diferentes tipos de quesos : 2kg queso sardo , 1kg queso muzzarella, 400gr queso azul, 500gr queso pategras, 1kg queso mar del plata",
+    "photo":{"url":"https://www.lacucanyaportsitges.es/img/los-mejores-10-tipos-de-queso-419.jpg"},
+    "price":2100.00,
+    "publicationDate": "01/03/2022",
+    "expirationDate":"01/06/2022",
+    "quantity":10,
+    "category":1,
+    "publisher":1,
+    "company":"mackro"
+    
+  }
+ 
+
+]

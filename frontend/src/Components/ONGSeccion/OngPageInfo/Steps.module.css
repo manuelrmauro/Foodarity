@@ -1,0 +1,14 @@
+.contenedor {
+  background-color: rgba(231, 206, 236, 0.336);
+  margin-top: 1em;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.texto2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

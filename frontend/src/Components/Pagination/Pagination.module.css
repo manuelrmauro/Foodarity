@@ -1,0 +1,36 @@
+.botoneraContent {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  background-color: #bf9eca;
+  margin-bottom: 20px;
+  /* filter:drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.4)) */
+}
+.botones {
+  position: relative;
+  left: 12px;
+}
+
+.btn {
+  width: 25px;
+  height: 25px;
+  margin-left: 5px;
+  border: none;
+  background-color: #5b457a;
+  color: white;
+  border-radius: 9999px;
+  position: relative;
+  right: 25px;
+  z-index: 2;
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+/* modificar pagina actual */
+.btn:disabled {
+  cursor: auto;
+  background-color: #ffffff;
+  color: #8e6bbe;
+  border: 1px solid white;
+  
+}
